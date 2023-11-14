@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T15:46:29.514Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.1" etag="r944X0TADavdPvzTatim" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T15:50:28.206Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4FUQ1LZQdstoq6ZGIQwt" version="22.1.1" type="github">
   <diagram name="Page-1" id="Qy2TzYvvnMDtDnxc6B2E">
-    <mxGraphModel>
+    <mxGraphModel dx="1026" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3l_620mSqwGG3C2m_9Dw-1" value="Patient" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3l_620mSqwGG3C2m_9Dw-2" value="Doctor/Medical Professional" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3l_620mSqwGG3C2m_9Dw-3" value="Appointment" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
